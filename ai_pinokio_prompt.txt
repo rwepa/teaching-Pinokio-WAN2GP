@@ -1,0 +1,63 @@
+ai_pinokio_prompt.txt
+
+Prompt = Subject + Scene + Motion + Aesthetic Control + Stylization
+
+#雪峰晨曦
+
+A cinematic drone shot of a majestic snow-covered mountain range at sunrise. Golden sunlight touching the peaks, soft moving clouds, photorealistic, highly detailed.
+
+日出時分，壯麗的雪山被無人機拍攝下來，畫面極具電影質感。金色的陽光灑在山峰上，輕柔的雲朵飄動，畫面逼真，細節豐富。
+
+#賽博夜城
+
+A futuristic cyberpunk city at night with flying vehicles and bright neon lights. Heavy rain, reflections on the wet asphalt, dark and moody atmosphere, Unreal Engine 5 render.
+
+充滿飛行器和明亮霓虹燈的未來賽博龐克夜之城。大雨滂沱，濕瀝青路面映出倒影，黑暗且情緒化的氛圍，虛幻引擎5渲染。
+
+#草地晨奔
+
+Close-up shot of a cute golden retriever running happily in a green meadow. Wind blowing through its fur, sunlight filtering through the trees, slow motion, cheerful vibe, high quality.
+
+一隻可愛的金毛犬在綠色草地上快樂奔跑的特寫鏡頭。微風吹拂毛髮，陽光穿透樹葉，慢動作，歡樂氛圍，高品質。
+
+#黏土動畫
+
+In a claymation style, a miniature fairy village, constructed from acorns, tree bark, dried flowers, and moss, is hidden within the crevice of an ancient tree root. A few of its inhabitants, beings made of small pebbles and fresh sprouts, are bustling about. A single sunbeam pierces through a gap in the leaves, illuminating the village’s central square like a theatrical spotlight.
+
+在黏土動畫風格中，一個用橡實、樹皮、乾燥花和苔蘚搭建的微型仙境村莊，隱藏在一棵古樹根的縫隙裡。一些由小石子和嫩芽組成的居民正在村莊裡忙碌地穿梭。一束陽光穿過樹葉的縫隙，像舞台上的聚光燈一樣照亮了村莊的中心廣場。
+
+#未來都市
+
+A beautiful woman, walking through a futuristic city, neon lights and flying cars every where, cinematic lighting, depth of field, smooth camera movement, highly detailed, realistic, 4K, masterpiece.
+
+一位美麗的女子漫步在未來都市，霓虹燈閃爍，飛行汽車隨處可見，電影級的燈光、景深、流暢的鏡頭運動，細節豐富，逼真寫實，4K 超高清，堪稱傑作。
+
+#神社小徑
+
+A young girl in a white dress strolls along a shrine path strewn with cherry blossoms. The soft afternoon sunlight of spring creates a cinematic effect with stunning lighting, depth of field, slow-motion tracking, high detail, realism, and 4K resolution.
+
+一位身穿白色長裙的少女，在櫻花飄落的神社小徑漫步，春日午後陽光柔和，電影級光影，景深效果，鏡頭緩慢跟拍，高細節，真實感，4K畫質，電影質感
+
+#星夜鯨躍
+
+A massive humpback whale breaching out of a calm, dark blue ocean at night, water splashing everywhere. The night sky is filled with glowing stars and a bright full moon. Cinematic lighting, photorealistic, 8k resolution, slow motion, epic drone shot, highly detailed.
+
+一頭巨大的座頭鯨躍出平靜深藍色的夜空，激起陣陣水花。夜空中繁星閃爍，一輪皎潔的滿月高懸。電影級光影，照片級真實感，8K分辨率，慢動作，史詩級無人機航拍，細節豐富。
+
+#機器戰警
+
+A sleek humanoid robot wearing a glowing metallic spacesuit, walking down a vibrant cyberpunk alleyway filled with neon signs and glowing holographic advertisements. Heavy rain, wet asphalt reflecting neon lights. Slow push-in shot, cinematic composition, 35mm lens, 4k.
+
+一個身穿閃亮金屬太空衣的流線型人形機器人，走在霓虹燈閃爍、全息廣告牌林立的充滿活力的賽博龐克風格小巷中。瓢潑大雨，濕漉漉的瀝青路面反射著霓虹燈。緩慢推進的鏡頭，電影般的構圖，35毫米鏡頭，4K解析度。
+
+#貓伴晨光
+
+A cozy, sunlit wooden table in the morning. A steaming cup of hot coffee sits on the table, with soft morning sunlight pouring in from a nearby window. In the blurred background, a fluffy cat is sleeping on a comfortable sofa. Slow zoom-in, peaceful vibe, warm aesthetic, high quality.
+
+清晨，陽光灑在一張舒適的木桌上。一杯熱氣騰騰的咖啡擺放在桌上，柔和的晨光從附近的窗戶傾瀉而入。在模糊的背景中，一隻毛茸茸的貓咪慵懶地睡在舒適的沙發上。鏡頭緩緩拉近，營造出寧靜祥和的氛圍，畫面溫馨唯美，品質優良。
+
+#海風輕舞 (image2video)
+
+A beautiful young Asian woman standing on a sandy beach, wearing a flowing white spaghetti-strap dress. Her long dark hair gently blows in the ocean breeze as she turns back and smiles softly at the camera. Golden sunset light illuminates her face and shoulders. Gentle waves roll onto the shore, turquoise ocean water sparkles, distant mountains and pastel-colored clouds create a dreamy background. Slow cinematic camera push-in, realistic hair movement, dress fluttering naturally in the wind, highly detailed water simulation, ultra-realistic skin texture, shallow depth of field, cinematic lighting, romantic atmosphere, photorealistic, masterpiece, 8K, film quality.
+
+一位美麗的年輕亞裔女子身穿飄逸的白色吊帶裙，佇立在沙灘上。她烏黑的長髮在海風中輕輕飄動，她轉身對著鏡頭露出溫柔的微笑。金色的夕陽灑在她的臉龐和肩頭。輕柔的海浪拍打著海岸，碧綠的海水波光粼粼，遠處的山脈和粉彩色的雲朵構成了一幅夢幻般的背景。緩慢的電影式鏡頭推進，逼真的頭髮飄動，裙擺在風中自然擺動，高度精細的水面模擬，超逼真的肌膚紋理，淺景深，電影級的燈光，浪漫的氛圍，照片級的真實感，傑作般的8K畫質，電影級品質。
