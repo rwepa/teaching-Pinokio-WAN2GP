@@ -2,6 +2,10 @@
 
 提供 Pinokio + WAN2GP  在地端免費生成影片教學
 
+# YouTube
+
++ https://youtu.be/AzH2PmBPMUk
+
 # 大綱
 1. Pinokio 簡介與安裝
 2. WAN2GP 簡介與安裝
