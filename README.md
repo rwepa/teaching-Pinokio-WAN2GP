@@ -21,5 +21,9 @@
 
 + https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/ai_pinokio_prompt.txt
 
+# 生成影片提示詞+結果檔
+
++ https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/ai_pinokio_prompt.md
+
 # image2video範例
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/dancing_sea_breeze.gif">
