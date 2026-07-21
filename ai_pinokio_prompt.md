@@ -1,6 +1,6 @@
 ai_pinokio_prompt.md
 
-Prompt = Subject + Scene + Motion + Aesthetic Control + Stylization
+**Prompt = Subject + Scene + Motion + Aesthetic Control + Stylization**
 
 # 雪峰晨曦
 
