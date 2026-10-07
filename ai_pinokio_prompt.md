@@ -1,8 +1,10 @@
+# 生成影片提示詞+結果檔
+
 ai_pinokio_prompt.md
 
 **Prompt = Subject + Scene + Motion + Aesthetic Control + Stylization**
 
-# 雪峰晨曦
+## 雪峰晨曦
 
 A cinematic drone shot of a majestic snow-covered mountain range at sunrise. Golden sunlight touching the peaks, soft moving clouds, photorealistic, highly detailed.
 
@@ -10,7 +12,7 @@ A cinematic drone shot of a majestic snow-covered mountain range at sunrise. Gol
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/snow_covered_mountain.gif">
 
-# 賽博夜城
+## 賽博夜城
 
 A futuristic cyberpunk city at night with flying vehicles and bright neon lights. Heavy rain, reflections on the wet asphalt, dark and moody atmosphere, Unreal Engine 5 render.
 
@@ -18,7 +20,7 @@ A futuristic cyberpunk city at night with flying vehicles and bright neon lights
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/cyberpunk_city.gif">
 
-# 草地晨奔
+## 草地晨奔
 
 Close-up shot of a cute golden retriever running happily in a green meadow. Wind blowing through its fur, sunlight filtering through the trees, slow motion, cheerful vibe, high quality.
 
@@ -26,7 +28,7 @@ Close-up shot of a cute golden retriever running happily in a green meadow. Wind
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/golden_retriever.gif">
 
-# 黏土動畫
+## 黏土動畫
 
 In a claymation style, a miniature fairy village, constructed from acorns, tree bark, dried flowers, and moss, is hidden within the crevice of an ancient tree root. A few of its inhabitants, beings made of small pebbles and fresh sprouts, are bustling about. A single sunbeam pierces through a gap in the leaves, illuminating the village’s central square like a theatrical spotlight.
 
@@ -34,7 +36,7 @@ In a claymation style, a miniature fairy village, constructed from acorns, tree 
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/claymation.gif">
 
-# 未來都市
+## 未來都市
 
 A beautiful woman, walking through a futuristic city, neon lights and flying cars every where, cinematic lighting, depth of field, smooth camera movement, highly detailed, realistic, 4K, masterpiece.
 
@@ -42,7 +44,7 @@ A beautiful woman, walking through a futuristic city, neon lights and flying car
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/future_city.gif">
 
-# 神社小徑
+## 神社小徑
 
 A young girl in a white dress strolls along a shrine path strewn with cherry blossoms. The soft afternoon sunlight of spring creates a cinematic effect with stunning lighting, depth of field, slow-motion tracking, high detail, realism, and 4K resolution.
 
@@ -50,7 +52,7 @@ A young girl in a white dress strolls along a shrine path strewn with cherry blo
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/shrine_path.gif">
 
-# 星夜鯨躍
+## 星夜鯨躍
 
 A massive humpback whale breaching out of a calm, dark blue ocean at night, water splashing everywhere. The night sky is filled with glowing stars and a bright full moon. Cinematic lighting, photorealistic, 8k resolution, slow motion, epic drone shot, highly detailed.
 
@@ -58,7 +60,7 @@ A massive humpback whale breaching out of a calm, dark blue ocean at night, wate
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/whale_leap.gif">
 
-# 機器戰警
+## 機器戰警
 
 A sleek humanoid robot wearing a glowing metallic spacesuit, walking down a vibrant cyberpunk alleyway filled with neon signs and glowing holographic advertisements. Heavy rain, wet asphalt reflecting neon lights. Slow push-in shot, cinematic composition, 35mm lens, 4k.
 
@@ -66,7 +68,7 @@ A sleek humanoid robot wearing a glowing metallic spacesuit, walking down a vibr
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/robocop.gif">
 
-# 貓伴晨光
+## 貓伴晨光
 
 A cozy, sunlit wooden table in the morning. A steaming cup of hot coffee sits on the table, with soft morning sunlight pouring in from a nearby window. In the blurred background, a fluffy cat is sleeping on a comfortable sofa. Slow zoom-in, peaceful vibe, warm aesthetic, high quality.
 
@@ -74,7 +76,7 @@ A cozy, sunlit wooden table in the morning. A steaming cup of hot coffee sits on
 
 <img src="https://github.com/rwepa/teaching-Pinokio-WAN2GP/blob/main/imgs/fluffy_cat.gif">
 
-# 海風輕舞 (image2video)
+## 海風輕舞 (image2video)
 
 A beautiful young Asian woman standing on a sandy beach, wearing a flowing white spaghetti-strap dress. Her long dark hair gently blows in the ocean breeze as she turns back and smiles softly at the camera. Golden sunset light illuminates her face and shoulders. Gentle waves roll onto the shore, turquoise ocean water sparkles, distant mountains and pastel-colored clouds create a dreamy background. Slow cinematic camera push-in, realistic hair movement, dress fluttering naturally in the wind, highly detailed water simulation, ultra-realistic skin texture, shallow depth of field, cinematic lighting, romantic atmosphere, photorealistic, masterpiece, 8K, film quality.
 
